@@ -1,5 +1,5 @@
 	This is a little game that the SnorriDev team made for a computer course. Its a bit 'laggy,'
-since it uses an HTTP server rather than a custom one. However, its still very fun and cool.
+since it uses an HTTP server rather than a multithreaded structure with custom protocol. However, its still very fun and cool.
 
 	Credz to symentax4797 and legotack as well.
 
