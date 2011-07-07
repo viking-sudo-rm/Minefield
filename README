@@ -1,0 +1,12 @@
+	This is a little game that the SnorriDev team made for a computer course. Its a bit 'laggy,'
+since it uses an HTTP server rather than a custom one. However, its still very fun and cool.
+
+	Credz to symentax4797 and legotack as well.
+
+	Each client connects to a server. On a server, you spawn in the middle of a map. All the players on
+a server are little tank things. They can drop mines to blow other tanks up. WASD keys move the
+tanks. There is very little friction, meaning that tanks slip and slide once they start moving. In
+addition, tanks can push other tanks into landmines.
+
+	Run a server. Then connect to it with multiple clients entering the server's IP address into the
+login form in each client.
